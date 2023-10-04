@@ -7,3 +7,10 @@
 
 
 In order to convert two currencies, first you have to click one item and then the second one. On the second screen, you can convert two types 
+
+# API
+https://cbu.uz/uz/arkhiv-kursov-valyut/json/
+Api for flags 
+https://flagcdn.com/{eu}.svg
+# Figma 
+https://www.figma.com/file/JsyJJ8UNAzdK1ObqEK0Hdf/Valyuta-kursi?type=design&node-id=4%3A192&mode=design&t=0xtP8GJYWC8nxJ7Q-1
