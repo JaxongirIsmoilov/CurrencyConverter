@@ -14,3 +14,9 @@ Api for flags
 https://flagcdn.com/{eu}.svg
 # Figma 
 https://www.figma.com/file/JsyJJ8UNAzdK1ObqEK0Hdf/Valyuta-kursi?type=design&node-id=4%3A192&mode=design&t=0xtP8GJYWC8nxJ7Q-1
+# Technologies 
+1. Clean Architecture
+2. Retrofit
+3. Voyager
+4. Dagger Hilt
+5. Jetpack compose 
